@@ -1,6 +1,3 @@
-/* q. Write a program to accept the name and total marks of 4 students in an array. Display the names and marks of the students
-securing highest and lowest marks.*/
-
 #include <iostream>
 using namespace std;
 
